@@ -1,1 +1,1 @@
-# intelligenceSystem_HW
+**This repository is for my homework only**
